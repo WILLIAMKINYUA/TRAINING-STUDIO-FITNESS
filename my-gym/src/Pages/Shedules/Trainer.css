@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0;
+ box-sizing: border-box;}
+.trainerpage{display: flex;
+    flex-direction:row ;}
+    .trainersector{
+        display: flex;
+        flex-direction: column;box-shadow:  rgba(30, 30, 46, 0.56)0px 3px 6px;;
+        padding: 100px 100px;
+    }
+ 
+    .subtitlet{
+        color: orangered;
+        font-size: 12px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+    margin-bottom: 2%;
+    letter-spacing: 1px;
+    }
+    .trainerimage{
+        width: 70%;
+        height:50%;
+        border-radius: 12px;
+        margin-bottom: 3%;
+    }
+    .namet{
+        color: rgb(6, 6, 35);
+        font-weight: 700;
+        margin-bottom: 4%;
+        letter-spacing: 1px;
+    }
+    .trainerpara{color: gray;
+        margin-bottom: 3%;
+        letter-spacing: 1px;
+        font-family: sans-serif;
+        padding: 50px;
+    }
+    .social{
+        margin-top: 1%;
+        display: flex;
+        
+    }
+    .icon{
+        margin-left: 1%;
+        color: rgb(6, 6, 35); ;
+    }

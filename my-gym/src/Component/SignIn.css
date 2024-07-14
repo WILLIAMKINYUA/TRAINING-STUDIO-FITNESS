@@ -1,0 +1,62 @@
+.signupform{width: 100%;height: 100%;
+}.signpage{ justify-content: center;
+    align-items: center;}
+.signinhead{font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 700;
+font-size: 23px;
+margin-top: 2%;}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    padding: 10px 45px;
+    margin-bottom: 2%;
+}
+.label{color: darkslategray;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-transform: capitalize;
+font-size: 100%;
+font-weight: 700;}
+.firstname{
+    margin-top: 0%;
+    margin-left: 2%;
+}
+
+.labels{color: darkslategray;margin-left: 9%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+    font-size: 100%;
+    font-weight: 700;}
+    .surname{
+        margin-top: 0%;
+        margin-left: 2%;
+    }
+    .emails{
+        margin-left:0%;
+    margin-bottom: 3%;
+    }
+    .email{
+        margin-top: 1%;
+        padding: 20px 105px;
+    }
+    .telnos{
+        margin-left:8%;
+    margin-bottom: 3%;
+    }
+    .telephoneno{
+        margin-top: 1%;
+        padding: 20px 105px;
+    }
+    .countrys{
+        margin-left:0%;
+    margin-bottom: 3%;
+    }
+    .country{
+        margin-top: 1%;
+        padding: 20px 105px;
+    }

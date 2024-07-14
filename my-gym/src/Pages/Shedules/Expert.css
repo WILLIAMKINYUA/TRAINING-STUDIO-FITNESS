@@ -1,0 +1,28 @@
+.expertbar{
+    justify-content: center;
+    align-items: center;
+    margin-left: 23%;
+    margin-top: 2%;
+}
+.experttopic{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 19%;
+    margin-bottom: 1%;
+}
+.expertspantwo{
+    color: orangered;
+}
+.expertwave{
+    color: orangered;
+    margin-left:27% ;
+}
+.expertpara{
+    color:rgb(125, 118, 118) ;
+    width: 60%;
+    letter-spacing: 1px;
+    padding: 10px 23px;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.trainbar{
+    justify-content: center;
+    align-items: center;
+    margin-left: 23%;
+    margin-top: 2%;
+}
+.traintopic{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 19%;
+    margin-bottom: 1%;
+}
+.trainspantwo{
+    color: orangered;
+}
+.trainwave{
+    color: orangered;
+    margin-left:27% ;
+}
+.trainpara{
+    color:rgb(125, 118, 118) ;
+    width: 60%;
+    letter-spacing: 1px;
+    padding: 10px 23px;
+}

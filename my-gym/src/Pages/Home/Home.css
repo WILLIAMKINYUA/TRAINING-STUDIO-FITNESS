@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}.homebody{position: relative;
+    width: 100%;
+height: 100%;}
+.homepage{
+    color: white;
+    width: 100%;
+    height: 100vh;
+     
+}
+
+.homevideobg{position: absolute;
+right: 0;
+left: 0%;
+top:0%;
+z-index: -1;
+opacity: 89%;
+}
+.bgvideo{
+    width: 100%;
+    height: 60%;
+}
+.main{
+   margin-left: 20%;
+   display: flex;
+   flex-direction: column;
+   padding:  84px 95px;
+   
+}
+.paraone{
+    text-transform:uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    margin-top: 14%;
+  margin-left: 29%;
+  margin-bottom: 4%;
+    }
+
+.paratwo{
+    text-transform: uppercase;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 67px;
+   font-weight: bolder;
+   letter-spacing: 7px;
+   margin-bottom: 4%;
+}.spantwo{color: orangered;}
+.membership{
+    list-style: none;text-transform: uppercase;
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 15px 23px;
+    width: 27%;
+    margin-left: 30%;
+    border-radius: 12px;
+}
+.membership:hover{
+    background-color: rgb(207, 128, 100);
+}

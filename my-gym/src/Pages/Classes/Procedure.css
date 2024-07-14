@@ -1,0 +1,78 @@
+.procedurepage{position: relative;
+}
+.presentright{position: absolute;
+top: 7%;
+right: 9%;
+width: 40%;
+}
+.group{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.plink{
+    display: flex;
+    margin-bottom: 7%;
+    box-shadow: rgba(30, 30, 46, 0.56)0px 3px 6px;
+    width: 40%;
+    padding: 18px 27px;
+    cursor: pointer;
+}
+.viewall{
+    box-shadow: rgba(30, 30, 46, 0.56)0px 3px 6px;
+    width: 20%;
+    padding: 13px 27px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    cursor: pointer;
+    margin-bottom: 4%;
+    text-decoration: none;
+    list-style: none;
+    color:white;
+    background-color: orangered;margin-left: 5%;
+
+}.viewall:hover{background-color: rgb(232, 155, 126);}
+.view{    padding: 13px 27px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 800;
+     cursor: pointer;
+     margin-bottom: 4%;
+     text-decoration: none;
+     list-style: none;
+     color:white;
+     background-color: orangered;margin-left: 5%;
+     text-transform: uppercase;
+}.view:hover{
+    background-color: rgb(232, 155, 126);
+}
+.gymlogo{
+    color: orangered;
+    
+}
+.headlink{
+    margin-top: 2%;
+    margin-left:1%;
+}.display{
+    position: absolute;
+    right:0%;
+    top: 5%;
+
+}
+.orderimage{
+    width: 500px;
+    height: 400px;
+    border-radius: 16px;
+    margin-bottom: 2%;
+}
+.imagetitle{
+    color: rgb(1, 1, 24);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-size: 23px;
+    margin-bottom: 2%;
+
+}
+.orderpara{
+    color: gray;width: 47%;
+    letter-spacing: 1px;
+    margin-bottom: 2%;
+}

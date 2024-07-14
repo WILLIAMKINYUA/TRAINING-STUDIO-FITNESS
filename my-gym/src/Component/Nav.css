@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    padding: 12px 23px;
+}
+.title{
+    text-transform: uppercase;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size:32px; 
+    letter-spacing: 1px;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+.second{
+    color: orangered;
+}.crack{
+    margin-left: 34%;
+    margin-top: 10%;
+}
+.navlink{
+    list-style: none;
+    text-decoration: none;
+    margin-top: 4%;
+    margin-left: 52px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.navlink:hover{
+    color: orangered;
+    cursor: pointer;
+}.signup{
+    margin-top: 4%;
+    margin-left: 24%;
+}
+.buttonsign{
+color: white;
+list-style: none;
+text-decoration: none;
+background-color: orangered;
+border-radius: 12px;
+padding:10px 23px ;
+}
+.buttonsign:hover{
+    background-color: rgb(207, 128, 100);
+}

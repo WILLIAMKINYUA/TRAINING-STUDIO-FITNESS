@@ -1,0 +1,79 @@
+.contactpage{
+    display: flex;
+    flex-direction: row;
+}
+.googlemap{
+    width: 40%;
+    color:gray;
+    font-size: 34px;
+    justify-content: center;
+align-items: center;
+}.map{
+   margin-left: 12%;
+   margin-top: 54%;
+}
+.form{
+    color: grey;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    background-color: rgb(47, 47, 99);
+    padding: 45px 65px;width: 70%;
+  
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 12px;
+    margin-top: 5%;
+    width: 70%;
+}
+.contactdetails{
+    display: flex;
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-bottom:3% ;
+   
+}.contactname{ padding: 10px 29px;border: 1px solid gray;}
+.contactemail{margin-left: 3%;
+    padding: 10px 29px;border: 1px solid gray;
+}
+.contactsubject{margin-left: 3%;
+     padding: 10px 29px;
+     width:65%;
+     border: 1px solid gray;
+    margin-bottom: 3%;
+    }
+    .contactmessage{margin-left: 3%;
+        padding: 10px 29px;
+        width:65%;
+        border: 1px solid gray;
+        font-family: sans-serif;
+        margin-bottom: 3%;
+
+    }
+    .btn{
+        text-transform: uppercase;
+        color: white;
+        background-color: orangered;
+        padding: 10px 23px;
+        width: 24%;
+        cursor: pointer;
+        margin-left: 3%;
+        margin-bottom: 3%;
+        font-weight: 300;
+    }
+    .footpage{justify-content: center;
+    align-items: center;
+     margin-left: 32%;
+    padding: 10px 23px;
+   margin-top: 2%;
+   font-family: sans-serif;
+letter-spacing: 1px;
+font-size: 14px;
+ color: rgb(19, 19, 38);}
+.footercolor{color:orangered}
+.footertwo{margin-left: 15%;
+    margin-top: 1%;
+}

@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titlebar{
+    justify-content: center;
+    align-items: center;
+    margin-left: 23%;
+    margin-top: 2%;
+}
+.titletopic{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 19%;
+    margin-bottom: 1%;
+}
+.aboutspantwo{
+    color: orangered;
+}
+.aboutwave{
+    color: orangered;
+    margin-left:27% ;
+}
+.titlepara{
+    color:rgb(125, 118, 118) ;
+    width: 60%;
+    letter-spacing: 1px;
+    padding: 10px 23px;
+}.abody{position: relative;
+left:3rem;
+width:100%;
+}
+.sectoroner{
+    display: flex;
+    margin-bottom: 4%;
+
+    
+}.spacing{
+    padding: 2rem;
+    padding-top: 1.5rem;
+    flex: 3;
+    display: flex;
+    gap:2rem;
+    flex-direction: column;
+}
+.sectorone{
+    display: flex;
+margin-bottom: 4%;
+
+}
+.aboutlogo{
+    background-color: orangered;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    width: 6%;
+    border-radius: 12px;
+
+}
+.aboutlogoright{
+    background-color: orangered;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    width: 12%;
+    border-radius: 12px;
+}
+.aboutbasic{
+    display: flex;
+    flex-direction: column;
+    margin-left:1% ;
+}
+.aboutbasictwo{ display: flex;
+    flex-direction: column;
+    margin-left:1% ;}
+.sectorpara{
+    color:rgb(125, 118, 118) ;
+    margin-bottom: 1%;width:60%;
+}
+.sectorparaone{
+    color:rgb(125, 118, 118) ;
+    margin-bottom: 1%;width:60%;
+    
+}
+.aboutlink{
+    list-style: none;
+    text-decoration: none;
+    color: orangered;
+    font-size: 14px;
+    cursor: pointer;
+}.aboutlinktwo{
+    list-style: none;
+    text-decoration: none;
+    color: orangered;
+    font-size: 14px;
+    cursor: pointer;
+}
+.lefth{
+    padding: 2rem;
+    padding-top: 1.5rem;
+    flex: 3;
+    display: flex;
+    gap:2rem;
+    flex-direction: column;
+
+
+}
+.righth{
+    position: absolute;
+    right: 2px;
+    top: 1rem;
+    z-index: -1;
+    margin-left: 2px;
+
+}
+a{text-decoration: none;}
